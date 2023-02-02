@@ -3,3 +3,51 @@ body {
     font-family: Arial;
 
 }
+
+header{
+    width: 100%;
+    background-color: bisque;
+    height: 100px;
+    padding: 20px;
+    color:aliceblue;
+    text-align: center;
+    font-size: medium;
+}
+
+nav{
+    width: 100%;
+    background: lightblue;
+    height: 20px;
+    padding: 10px;
+
+}
+
+aside{
+    width: 300px;
+    height: 500px;
+    background: lightgray;
+    float: left;
+
+}
+article{
+    width: 100px;
+    float: left;
+    background: lightpink;
+
+}
+
+section{
+    background: white;
+    padding: 20px;
+}
+
+footer{
+    clear: both;
+    display: block;
+    background: lightcoral;
+    text-align: center;
+    padding: 20px;
+    /*
+*/
+
+}
